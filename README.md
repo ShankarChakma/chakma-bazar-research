@@ -1,1 +1,1 @@
-# chakma-bazer-research
+# chakma-bazar-research
